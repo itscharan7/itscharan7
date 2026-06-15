@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/charan-tej">
+<a href="https://www.linkedin.com/in/charan-tej-90ab362bb">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -46,15 +46,15 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Built%20through%20failures-Refined%20through%20consistency-1b3619?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/A%20CSE%20student-turning%20code%20into%20real%20solutions-1b3619?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Every%20challenge%20is%20a%20lesson-Every%20setback%20is%20fuel-2e5a2b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java%20%7C%20Spring%20Boot%20%7C%20DSA-this%20is%20how%20I%20spend%20my%20time-2e5a2b?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/I%20keep%20moving%20forward-While%20others%20look%20for%20excuses-3f7d38?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Not%20just%20learning%20to%20pass-learning%20to%20build%20and%20get%20placed-3f7d38?style=for-the-badge"/>
 
 </p>
 
@@ -156,27 +156,27 @@ An Explainable AI predictive maintenance system built using NASA C-MAPSS data, I
 
 <p align="center">
 
-🏆 Java Backend Developer
+🏆 Shipped real projects — not just tutorials
 
 <br><br>
 
-🚀 Building Real-World Projects
+🚀 Engineered backends with Java & Spring Boot from scratch
 
 <br><br>
 
-📚 Continuous Learner
+📚 Stayed consistent when it wasn't easy
 
 <br><br>
 
-💡 Turning Ideas Into Code
+💡 Turned ideas into working, deployable code
 
 <br><br>
 
-🧩 DSA Enthusiast
+🧩 Grinding DSA one problem at a time
 
 <br><br>
 
-🌱 Spring Boot Developer
+🌱 Growing every day with purpose and a plan
 
 </p>
 
@@ -188,7 +188,7 @@ An Explainable AI predictive maintenance system built using NASA C-MAPSS data, I
 
 <div align="center">
 
-### ✨ Built through failures. Refined through consistency.
+### ✨ One day, the work I'm doing today will introduce me before I speak.
 
 </div>
 
