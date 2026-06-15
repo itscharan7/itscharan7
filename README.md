@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;DSA+Learner;Building+Real-World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;DSA+Learner;Building+Real-World+Projects" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=itscharan7&label=Profile%20Views&color=00C853&style=for-the-badge"/>
