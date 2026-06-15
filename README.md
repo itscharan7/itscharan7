@@ -19,22 +19,16 @@
 ---
 
 <p align="center">
-<img src="https://img.shields.io/badge/⚡%20PROFILE%20LINKS-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" height="60"/>
-</p>
 
-<p align="center">
+<img src="https://img.shields.io/badge/Discipline%20beats%20motivation-I%20show%20up%20even%20when%20I%20don't%20feel%20like%20it-1b3619?style=for-the-badge"/>
 
-<a href="https://github.com/itscharan7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br><br>
 
-<a href="https://linkedin.com/in/charan-tej">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/I%20don't%20wait%20for%20opportunities-I%20build%20them-2e5a2b?style=for-the-badge"/>
 
-<a href="mailto:charankm676@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br><br>
+
+<img src="https://img.shields.io/badge/Every%20line%20of%20code-Every%20problem%20solved%20adds%20up-3f7d38?style=for-the-badge"/>
 
 </p>
 
