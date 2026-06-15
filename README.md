@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFFFFF,100:E5E5E5&text=CHARAN%20TEJ&fontSize=80&fontColor=000000&animation=fadeIn&fontAlignY=38"/>
@@ -13,7 +12,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BUILD%20⚡%20•%20LEARN%20📚%20•%20IMPROVE%20📈%20•%20REPEAT%20🔄-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" height="60"/>
+<img src="https://img.shields.io/badge/RISE%20⬆️%20•%20GRIND%20⚡%20•%20PROGRESS%20📈%20•%20REPEAT%20🔄%20•%20SUCCEED!%20🏆-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" height="60"/>
 
 </div>
 
@@ -47,15 +46,15 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Discipline%20beats%20motivation-I%20show%20up%20even%20when%20I%20don't%20feel%20like%20it-1b3619?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Built%20through%20failures-Refined%20through%20consistency-1b3619?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/I%20don't%20wait%20for%20opportunities-I%20build%20them-2e5a2b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Every%20challenge%20is%20a%20lesson-Every%20setback%20is%20fuel-2e5a2b?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Every%20line%20of%20code-Every%20problem%20solved%20adds%20up-3f7d38?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/I%20keep%20moving%20forward-While%20others%20look%20for%20excuses-3f7d38?style=for-the-badge"/>
 
 </p>
 
@@ -93,7 +92,7 @@
 🗄️ Designing Database Systems with PostgreSQL
 
 🌱 Learning System Design
-````
+```
 
 ---
 
@@ -145,31 +144,39 @@ An Explainable AI predictive maintenance system built using NASA C-MAPSS data, I
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itscharan7&bg_color=ffffff&color=000000&line=
-```md
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itscharan7&bg_color=ffffff&color=000000&line=1b3619&point=000000&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://img.shields.io/badge/⚡%20ACHIEVEMENTS-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" height="60"/>
+</p>
+
 <p align="center">
 
-🚀 Building Products, Not Just Projects
+🏆 Java Backend Developer
 
 <br><br>
 
-☕ Java Backend Developer
+🚀 Building Real-World Projects
 
 <br><br>
 
-🧩 Problem Solver & DSA Enthusiast
+📚 Continuous Learner
 
 <br><br>
 
-⚡ Spring Boot API Builder
+💡 Turning Ideas Into Code
 
 <br><br>
 
-📚 Lifelong Learner
+🧩 DSA Enthusiast
 
 <br><br>
 
-💡 Turning Ideas Into Real-World Solutions
+🌱 Spring Boot Developer
 
 </p>
 
@@ -181,12 +188,10 @@ An Explainable AI predictive maintenance system built using NASA C-MAPSS data, I
 
 <div align="center">
 
-### 🏆 One day, the work I'm doing today will introduce me before I speak.
+### ✨ Built through failures. Refined through consistency.
 
 </div>
 
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:E5E5E5,100:FFFFFF"/>
-
-```
